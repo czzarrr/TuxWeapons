@@ -1,0 +1,20 @@
+[
+{
+  "modid": "TuxWeapons",
+  "name": "TuxWeapons",
+  "description": "A weapon and enchantments mod that adds many new awesome weapons for every type of minecrafter to use and enjoy.",
+  "version": "0.4pre1",
+  "url": "Coming Soon",
+  "updateUrl": "Coming Soon",
+  "authorList": [
+    "TuxCraft"
+  ],
+  "credits": "Created by TuxCraft",
+  "logoFile": "/TuxWeapons.png",
+  "screenshots": [""
+  ],
+  "parent":"",
+  "dependencies": [ "Minecraft Forge"
+  ]
+}
+]
