@@ -97,7 +97,7 @@ public class TuxWeaponsCore {
 	public static Item fryingPan;
 
 	public static final Block redstoneTempBlock = new BlockRedstoneTempBlock(
-			251).setHardness(5.0F).setResistance(10.0F)
+			976).setHardness(5.0F).setResistance(10.0F)
 			.setUnlocalizedName("redstoneTempBlock");
 
 	public static Enchantment enchPoison;
